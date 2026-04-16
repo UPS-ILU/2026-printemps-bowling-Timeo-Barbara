@@ -20,5 +20,14 @@ public class GameTest {
 		assertEquals(0, game.score());
 		}
 	}
+	
+	@Test
+	void test_roll_1() {
+		for (int i = 0; i < 20; i++) {
+			game.roll(1);
+		}
+		System.out.println(game.score());
+		assertEquals(20, game.score());
+	}
 
 }
