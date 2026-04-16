@@ -15,7 +15,7 @@
 
 Backlog
 Niveau 1
-- [ ] Entrée : vide || Score attendu : 0
+- [x] Entrée : vide || Score attendu : 0
 - [x] Entrée : On roll 20 fois 0 || Score attendu : 0
 - [x] Entrée : On roll 20 fois 1 || Score attendu : 20
 - [ ] Entrée : On roll 10 fois 1 et 10 fois 2 || Score attendu : 30 
