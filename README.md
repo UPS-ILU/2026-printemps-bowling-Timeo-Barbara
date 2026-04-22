@@ -27,10 +27,10 @@ Niveau 3 : strike
 - [x] Entrée : On roll 10, 3 puis 4 & 16 fois 0 || Score attendu : 24
 
 Niveau 4 : cas général
-- [ ] Entrée : 1, 2, 10, 0, 10, 4, 2, 0, 10, 6, 2, 0, 10, 6, 4, 8, 2, 2, 7 || Score attendu : 122
+- [x] Entrée : 1, 2, 10, 0, 10, 4, 2, 0, 10, 6, 2, 0, 10, 6, 4, 8, 2, 2, 7 || Score attendu : 122
 
 Niveau 5 : extension
-- [ ] Entrée : 1, 2, 10, 0, 10, 4, 2, 0, 10, 6, 2, 0, 10, 6, 4, 8, 2, 2, 8, 8 || Score attendu : 131
+- [x] Entrée : 1, 2, 10, 0, 10, 4, 2, 0, 10, 6, 2, 0, 10, 6, 4, 8, 2, 2, 8, 8 || Score attendu : 131
 
 Niveau 6 : génie
 - [ ] Entrée : On roll 12 fois 10 || Score attendu : 300 
